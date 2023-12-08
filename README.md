@@ -8,4 +8,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/muchammad-saifurrijaal)
 - 😄 Pronouns: He/Him
 
+### ✨ My Stats ✨
+
 

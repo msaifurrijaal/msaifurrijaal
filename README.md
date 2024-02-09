@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋👋
 
 My name is **Muchammad Saifurrijaal**. I am currently studying on Brawijaya University and majoring on Information Technology.
 

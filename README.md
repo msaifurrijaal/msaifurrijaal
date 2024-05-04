@@ -4,7 +4,7 @@ My name is **Muchammad Saifurrijaal**. I am currently studying on Brawijaya Univ
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning Frontend Web and Mobile.
+- 🌱 I’m currently learning Web and Mobile Development.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/muchammad-saifurrijaal)
 - 😄 Pronouns: He/Him
 

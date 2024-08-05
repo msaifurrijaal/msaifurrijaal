@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Web and Mobile Development.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/muchammad-saifurrijaal)
-- 😄 Pronouns: He/Him
+
 
 ### ✨ My Stats ✨
 

@@ -1,15 +1,12 @@
-### Hi there 👋👋
+### Hi there 👋
 
-My name is **Muchammad Saifurrijaal**. I am currently studying on Brawijaya University and majoring on Information Technology.
+I'm **Muchammad Saifurrijaal**, a Software Developer who turns coffee into code ☕
 
-Here are some ideas to get you started:
+Tech Stack:
+- JavaScript / TypeScript (React.js, Next.js, Vue, Express, NestJS)
+- PHP (Laravel)
+- Go
 
-- 🌱 I’m currently learning Web and Mobile Development.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/muchammad-saifurrijaal)
+Always building. Always learning.
 
-
-### ✨ My Stats ✨
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msaifurrijaal&theme=tokyonight&layout=compact)
-
-
+📫 LinkedIn: https://www.linkedin.com/in/muchammad-saifurrijaal
